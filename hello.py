@@ -5,7 +5,7 @@ class Item:
     def __init__(self, name):
         self.name = name
 
-nimi = "Essi Esimerkki"
+nimi = "Essi Esimerkki testi"
 
 lista = [1, 1, 2, 3, 5, 8, 11]
 
