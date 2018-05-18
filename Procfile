@@ -1,1 +1,1 @@
-web: gunicorn hello:app
+web: gunicorn --preload --workers 1 hello:app
