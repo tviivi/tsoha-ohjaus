@@ -14,7 +14,6 @@ esineet.append(Item("Eka"))
 esineet.append(Item("Toka"))
 esineet.append(Item("Kolmas"))
 esineet.append(Item("Neljäs"))
-esineet.append(Item("moi"))
   
 @app.route("/")
 def hello():
