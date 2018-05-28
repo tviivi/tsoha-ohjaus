@@ -11,5 +11,6 @@
 | 22.5. | 1 | 1.vkon deadline - loput 6 työtä pisteytetty |
 | 25.5. | 0,5 | 3.vkon aloittelua |
 | 28.5. | 0,5 | 2.vkon kertaamista pajaa varten |
+| 28.5. | 2 | 3.vko tehty, pajaohjaus |
 
-## = 11h
+## = 13h

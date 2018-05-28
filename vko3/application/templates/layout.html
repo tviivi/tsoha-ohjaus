@@ -6,12 +6,17 @@
   </head>
 
   <body>
+      {% if current_user.is_authenticated %}
+      <ul>
+      <h2>Logged in: {{ current_user.username }} || <a href="{{ url_for('auth_logout') }}">Logout</a></h2>
+    </ul>
+      {% else %}
+      <a href="{{ url_for('auth_login') }}">Login</a>
+      {% endif %}
     <ul>
-            <a href="{{ url_for('tasks_index') }}">List tasks</a>
-            <p></p>
-            <a href="{{ url_for('tasks_form') }}">Add a task ää</a>
-            <p></p>
-            <a href="{{ url_for('index') }}">Back to index.html</a>
+            <a href="{{ url_for('tasks_index') }}">List tasks ||</a>
+            <a href="{{ url_for('tasks_form') }}">Add a task ||</a>
+            <a href="{{ url_for('index') }}">Back to index.html </a>
             <p>
               Nämä linkit ovat peräisin layoutista.
             </p>
