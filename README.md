@@ -12,5 +12,6 @@
 | 25.5. | 0,5 | 3.vkon aloittelua |
 | 28.5. | 0,5 | 2.vkon kertaamista pajaa varten |
 | 28.5. | 2 | 3.vko tehty, pajaohjaus |
+| 29.5. | 3 | 2.vkon deadline - 14 työtä arvosteltu |
 
-## = 13h
+## = 16h
