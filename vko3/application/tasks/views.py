@@ -41,3 +41,8 @@ def tasks_create():
     db.session().commit()
   
     return redirect(url_for("tasks_index"))
+
+@app.route("/tasks/<task_id>/", methods=["GET"])
+def tasks_view(task_id):
+    t = Task.query.get(task_id)
+    return render_template("tasks/taskview.html", t=t)

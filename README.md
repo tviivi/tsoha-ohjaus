@@ -15,5 +15,6 @@
 | 29.5. | 3 | 2.vkon deadline - 14 työtä arvosteltu |
 | 31.5. | 0,25 | 2.vkon deadline - viimeinen työ arvosteltu (lisäaika) |
 | 1.6. | 0,25 | 3.vkon kertaaminen pajaa varten |
+| 1.6. | 2 | pajaohjaus, yksittäisen taskin näyttäminen |
 
-## = 16,5h
+## = 18,5h
