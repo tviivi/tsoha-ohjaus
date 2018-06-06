@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<h1>Hello world!</h1>
+  <p>
+    Tämä tervehdys on peräisin indexistä.
+  </p>
+
+{% if needs_tasks is defined %}
+<p>
+  The following users need work:
+</p>
+
+<ul>
+  {% for user in needs_tasks %}
+  <li>
+    {{user.id}} {{user.name}}
+  </li>
+  {% endfor %}
+</ul>
+
+{% endif %}
+
+{% endblock %}

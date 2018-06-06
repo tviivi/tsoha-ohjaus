@@ -18,5 +18,6 @@
 | 1.6. | 2 | pajaohjaus, yksittäisen taskin näyttäminen |
 | 5.6. | 2,5 | 3.vkon deadline - kaikki 15 työtä arvosteltu |
 | 6.6. | 1 | 1.koodikatselmointi - 14 katselmointia arvosteltu |
+| 6.6. | 1 | 4.vko tehty, task:in poistotoiminnallisuus |
 
-## = 22h
+## = 23h

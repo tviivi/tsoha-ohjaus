@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<h1>Task "{{ t.name }}"</h1>
+<table>
+    <tr>
+        <th>
+            id: {{ t.id }}
+        </th>
+    </tr>
+    <tr>
+        <th>
+            Done: {{ t.done }}
+        </th>
+    </tr>
+</table>
+{% endblock %}
