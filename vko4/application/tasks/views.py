@@ -17,7 +17,7 @@ def tasks_form():
 
 @app.route("/tasks/<task_id>/", methods=["POST"])
 @login_required
-def tasks_set_done(task_id):
+def tasks_set_done(task_id): 
 
     t = Task.query.get(task_id)
     t.done = True

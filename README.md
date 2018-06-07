@@ -19,5 +19,6 @@
 | 5.6. | 2,5 | 3.vkon deadline - kaikki 15 työtä arvosteltu |
 | 6.6. | 1 | 1.koodikatselmointi - 14 katselmointia arvosteltu |
 | 6.6. | 1 | 4.vko tehty, task:in poistotoiminnallisuus |
+| 7.6. | 0 | 1.koodikatselmointi - viimeinen työ arvosteltu (lisäaika) |
 
 ## = 23h
