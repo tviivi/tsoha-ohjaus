@@ -9,12 +9,10 @@
 </head>
 
 <body>
-
   <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
-    <a class="navbar-brand" href="#">TodoApplication</a>
+    <a class="navbar-brand" href="{{ url_for('index') }}">TodoApplication</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
       aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
@@ -24,18 +22,11 @@
         <li class="nav-item">
           <a class="nav-link" href="{{ url_for('tasks_form') }} ">Add a task</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ url_for('index') }}">Back to index.html </a>
-        </li>
       </ul>
-      <div class="form-inline mt-2 mt-md-0">
 
-        {% if current_user.is_authenticated %}
-        <ul>
-          <h2>Logged in: {{ current_user.username }} ||
-            <a href="{{ url_for('auth_logout') }}">Logout</a>
-          </h2>
-        </ul>
+      <div class="form-inline mt-2 mt-md-0">
+        {% if current_user.is_authenticated %} Logged in: {{ current_user.username }}
+        <a href="{{ url_for('auth_logout') }}">LOGOUT</a>
         {% else %}
         <a href="{{ url_for('auth_login') }}">Login</a>
         {% endif %}
@@ -43,11 +34,11 @@
     </div>
   </nav>
   <main role="main" class="container">
-  {% block body %}
-  <p>
-    Content.
-  </p>
-  {% endblock %}
+    {% block body %}
+    <p>
+      Content.
+    </p>
+    {% endblock %}
   </main>
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
     crossorigin="anonymous"></script>

@@ -20,5 +20,6 @@
 | 6.6. | 1 | 1.koodikatselmointi - 14 katselmointia arvosteltu |
 | 6.6. | 1 | 4.vko tehty, task:in poistotoiminnallisuus |
 | 7.6. | 0 | 1.koodikatselmointi - viimeinen työ arvosteltu (lisäaika) |
+| 8.6. | 2 | pajaohjaus, oman sovelluksen siistimistä |
 
-## = 23h
+## = 25h
