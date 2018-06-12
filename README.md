@@ -21,5 +21,6 @@
 | 6.6. | 1 | 4.vko tehty, task:in poistotoiminnallisuus |
 | 7.6. | 0 | 1.koodikatselmointi - viimeinen työ arvosteltu (lisäaika) |
 | 8.6. | 2 | pajaohjaus, oman sovelluksen siistimistä |
+| 12.6. | 1,5 | 4.vkon deadline - kaikki 15 työtä arvosteltu |
 
-## = 25h
+## = 26,5h
