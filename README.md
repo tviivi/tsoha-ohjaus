@@ -22,5 +22,6 @@
 | 7.6. | 0 | 1.koodikatselmointi - viimeinen työ arvosteltu (lisäaika) |
 | 8.6. | 2 | pajaohjaus, oman sovelluksen siistimistä |
 | 12.6. | 1,5 | 4.vkon deadline - kaikki 15 työtä arvosteltu |
+| 15.6. | 2,5 | 5.vkon matsku läpikäyty, paja-ohjaus |
 
-## = 26,5h
+## = 29h

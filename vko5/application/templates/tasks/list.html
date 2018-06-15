@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block body %}
+  <table class="table table-striped table-bordered">
+    <tr>
+      <th>Task</th>
+      <th>Done</th>
+      <th></th>
+      <th></th>
+    </tr>
+    {% for task in tasks %}
+    <tr>
+      <td><a href="{{ url_for('tasks_view', task_id=task.id) }}">{{ task.name }}</a></td>
+      <td>{{ task.done }}</td>
+
+      <td>
+        <form method="POST" action="{{ url_for('tasks_set_done', task_id=task.id) }}">
+          <input type="submit" value="Change status"/>
+        </form>
+      </td>
+
+      <td>
+        <form method="POST" action="{{ url_for('tasks_delete', task_id=task.id) }}">
+          <input type="submit" value="Delete"/>
+        </form>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+{% endblock %}

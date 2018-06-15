@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+{% if needs_tasks is defined %}
+<h3>
+  The following users need work:
+</h3>
+
+<ul>
+  {% for user in needs_tasks %}
+  <li>
+    {{user.id}} {{user.name}}
+  </li>
+  {% endfor %}
+</ul>
+
+<h6>Please give them something to do with their lives!</h6>
+{% endif %}
+
+{% endblock %}
