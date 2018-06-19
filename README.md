@@ -23,5 +23,6 @@
 | 8.6. | 2 | pajaohjaus, oman sovelluksen siistimistä |
 | 12.6. | 1,5 | 4.vkon deadline - kaikki 15 työtä arvosteltu |
 | 15.6. | 2,5 | 5.vkon matsku läpikäyty, paja-ohjaus |
+| 19.6. | 1,5 | 5.vkon deadline - 7 työtä arvosteltu |
 
-## = 29h
+## = 30,5h
