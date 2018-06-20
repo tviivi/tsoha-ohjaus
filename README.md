@@ -25,5 +25,7 @@
 | 15.6. | 2,5 | 5.vkon matsku läpikäyty, paja-ohjaus |
 | 19.6. | 1,5 | 5.vkon deadline - 7 työtä arvosteltu |
 | 19.6. | 1,5 | 5.vkon deadline - loput 8 työtä arvosteltu |
+| 20.6. | 1 | 2.koodikatselmointi - kaikki 15 katselmointia arvosteltu |
+| 20.6. | 2 | paja-ohjaus |
 
-## = 32h
+## = 35h
