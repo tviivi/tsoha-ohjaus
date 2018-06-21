@@ -27,6 +27,6 @@
 | 19.6. | 1,5 | 5.vkon deadline - loput 8 työtä arvosteltu |
 | 20.6. | 1 | 2.koodikatselmointi - kaikki 15 katselmointia arvosteltu |
 | 20.6. | 2 | paja-ohjaus |
-| 21.6. | 1,5 | 6.vkon deadline - 6 työtä arvosteltu |
+| 21.6. | 2 | 6.vkon deadline - 8 työtä arvosteltu |
 
-## = 36,5h
+## = 37h
