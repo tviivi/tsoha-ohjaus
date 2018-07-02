@@ -29,6 +29,6 @@
 | 20.6. | 2 | paja-ohjaus |
 | 21.6. | 2 | 6.vkon deadline - 8 työtä arvosteltu |
 | 21.6. | 1,5 | 6.vkon deadline - loput 7 työtä arvosteltu |
-| 2.7. | 1,5 | loppuarvostelu - 2 työtä arvosteltu |
+| 2.7. | 2 | loppuarvostelu - 3 työtä arvosteltu |
 
-## = 40h
+## = 40,5h
