@@ -32,6 +32,6 @@
 | 2.7. | 2 | loppuarvostelu - 3 työtä arvosteltu |
 | 3.7. | 2 | loppuarvostelu - 4 työtä arvosteltu |
 | 4.7. | 1,5 | loppuarvostelu - 2 työtä arvosteltu |
-| 4.7. | 2 | loppuarvostelu - 4 työtä arvosteltu |
+| 4.7. | 2,5 | loppuarvostelu - 5 työtä arvosteltu |
 
-## = 46h
+## = 46,5h
