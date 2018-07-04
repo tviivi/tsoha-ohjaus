@@ -31,5 +31,6 @@
 | 21.6. | 1,5 | 6.vkon deadline - loput 7 työtä arvosteltu |
 | 2.7. | 2 | loppuarvostelu - 3 työtä arvosteltu |
 | 3.7. | 2 | loppuarvostelu - 4 työtä arvosteltu |
+| 4.7. | 1,5 | 2 työtä arvosteltu |
 
-## = 42,5h
+## = 44h
