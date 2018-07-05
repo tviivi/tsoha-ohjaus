@@ -33,5 +33,6 @@
 | 3.7. | 2 | loppuarvostelu - 4 työtä arvosteltu |
 | 4.7. | 1,5 | loppuarvostelu - 2 työtä arvosteltu |
 | 4.7. | 2,5 | loppuarvostelu - 5 työtä arvosteltu |
+| 5.7. | 2 | loppuarvostelu - viimeinen työ arvosteltu, viimeistelyä vaille ready |
 
-## = 46,5h
+## = 48,5h
