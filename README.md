@@ -2,6 +2,7 @@
 
 | päivämäärä | työhön käytetty tuntimäärä | työn kuvailu |
 | :---: | :---: | :---: |
+| | ALKUKESÄ | |
 | 8.5. | 1 | Linux-virtuaalikoneen asentaminen, 1.vkoon tutustuminen |
 | 9.5. | 2 | 1.vkon läpikahlaaminen |
 | 18.5. | 2 | 1.vkon kertaaminen, 2.vkoon tutustumista |
@@ -34,5 +35,7 @@
 | 4.7. | 1,5 | loppuarvostelu - 2 työtä arvosteltu |
 | 4.7. | 2,5 | loppuarvostelu - 5 työtä arvosteltu |
 | 5.7. | 2 | loppuarvostelu - viimeinen työ arvosteltu, viimeistelyä vaille ready |
-
+| 23.7. | 0 | työt arvosteltu, kurssi doned |
 ## = 48,5h
+| | LOPPUKESÄ | |
+
